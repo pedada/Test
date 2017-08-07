@@ -1,5 +1,5 @@
 # test
 It just a test
-'''
-  print("hello,world")
-'''
+code:
+
+	print("hello,world")
